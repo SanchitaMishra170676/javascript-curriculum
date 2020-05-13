@@ -4,7 +4,7 @@ Before moving to a framework, it’s important to learn some of the key concepts
 
 Star this repoistry for easy accessibility. We will be updating these topics with the best resources to learn them.
 
-For any help/support, contact us at dsckiet@gmail.com
+For any help/support, contact us at: dsckiet@gmail.com
 
 ![words by a developer from facebook and the creater of react](https://github.com/dsckiet/javascript-curriculum/blob/master/js-curriculum.jpg)  
 
